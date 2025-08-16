@@ -1,0 +1,8 @@
+Desafio 1
+Crie uma classe Livro com:
+
+- Atributos privados: título, autor, preco
+- Construtor para inicializar os atributos
+- Métodos públicos para alterar o preço e exibir os dados do livro
+
+Depois, instancie dois objetos e mostre seus dados no main().
